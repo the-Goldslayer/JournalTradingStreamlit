@@ -1,0 +1,4 @@
+Date,Heure,Session,Direction,Setup,Tag_Strategie,Entry_Prix,SL_Prix,TP_Prix,Exit_Prix,Taille,Valeur_Point,Emotions,Notes,Screenshot_Avant_Lien,Screenshot_Apres_Lien,Duree_min
+2025-01-10,10:30,NY,LONG,Rebond Support,Range Breakout,1.1200,1.1150,1.1300,1.1310,1,10,Calme,"Sortie au-dessus du TP, bien géré.",https://your_public_drive_link_1,https://your_public_drive_link_2,45
+2025-01-11,14:00,Londres,SHORT,Cassure,VSA,1.2500,1.2550,1.2400,1.2520,2,5,Fomo,Entrée trop précoce.,https://your_public_drive_link_3,https://your_public_drive_link_4,120
+2025-01-12,09:00,Londres,LONG,Gap Fill,Retracement Fibo,1.3000,1.2990,1.3030,1.2990,5,10,Vengeance,Ignoré le SL mental.,https://your_public_drive_link_5,https://your_public_drive_link_6,15
